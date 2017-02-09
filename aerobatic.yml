@@ -1,0 +1,12 @@
+id: <de99c63d-0e8b-427c-a996-4068692e67ee>
+plugins:
+  # Oh nice, comments!
+  - name: basic-auth
+    options:
+      username: "araymoises"
+      password: "Vialmoises55+"
+
+  - name: custom-errors
+    options:
+      404: 404.html # Custom 404 page
+
